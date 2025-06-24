@@ -1,0 +1,147 @@
+{
+  "131E637D-7D63-4C2F-A873-5AD7B46E4EE7" : {
+    "objectMetadataList" : [
+      [
+        "131E637D-7D63-4C2F-A873-5AD7B46E4EE7",
+        "ShaderTerrainSides"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "1E38DFC4-B107-4C94-BE85-AB7E86C4EC48" : {
+    "objectMetadataList" : [
+      [
+        "1E38DFC4-B107-4C94-BE85-AB7E86C4EC48",
+        "ShaderPBR"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "1E38DFC4-B107-4C94-BE85-AB7E86C4EC48",
+        "ShaderPBR",
+        "SampleDiffuseAo"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "9A68B0C0-1AEC-4615-9AA9-424920DF149C" : {
+    "objectMetadataList" : [
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Geo",
+        "CanyonTransform"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Geo",
+        "CanyonTransform",
+        "LightSetup",
+        "EarthRotate",
+        "SunDistance"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Geo",
+        "CanyonTransform",
+        "LightSetup",
+        "EarthRotate"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Geo",
+        "CanyonTransform",
+        "LightSetup"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Geo",
+        "CanyonTransform",
+        "HikerTransform"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Geo",
+        "CanyonTransform",
+        "LightSetup",
+        "EarthRotate",
+        "SunDistance",
+        "SunLightsGroup"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Geo"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "9A68B0C0-1AEC-4615-9AA9-424920DF149C",
+        "Root",
+        "Geo",
+        "CanyonTransform",
+        "TrailHeads"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  }
+}
